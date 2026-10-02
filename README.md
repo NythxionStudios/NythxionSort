@@ -9,7 +9,7 @@
                     O P E N - S O U R C E
 ```
 
-# Nythxion Merge Sort
+# Nythxion Sort
 
 A small, dependency-free browser game that turns sorting algorithms into hands-on puzzles.
 
